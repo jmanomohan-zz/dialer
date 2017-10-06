@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="_0">0</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="app_name">फोन भारत</string>
+    <string name="call">कॉल करा</string>
+    <string name="coma">,</string>
+    <string name="contacts">Contacts</string>
+    <string name="duration">कालावधी</string>
+    <string name="eight">८ (आठ)</string>
+    <string name="five">५ (पांच)</string>
+    <string name="four">४ (चार)</string>
+    <string name="incoming_call">येणारे कॉल</string>
+    <string name="missed_call">मिस कॉल</string>
+    <string name="nine">९ (नौ)</string>
+    <string name="one">१ (एक)</string>
+    <string name="outgoing_call">जाणारे कॉल</string>
+    <string name="plus">+</string>
+    <string name="search_contact">Search contact..</string>
+    <string name="seven">७ (सात)</string>
+    <string name="six">६ (छः)</string>
+    <string name="speak_to_dial">Speak to dial</string>
+    <string name="speech_not_supported">Speech not supported</string>
+    <string name="speech_prompt">Speak number</string>
+    <string name="three">३ (तीन)</string>
+    <string name="two">२ (दो)</string>
+    <string name="zero">० (शून्य)</string>
+</resources>

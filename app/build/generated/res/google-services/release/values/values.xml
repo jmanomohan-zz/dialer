@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">877508768047-ge7ujvtqqnt2rb6qm1av2k5p5ee71nsl.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://dial-india.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">877508768047</string>
+    <string name="google_api_key" translatable="false">AIzaSyDRIvRxltvNtjifzQZ_o0C4e4Uo6navjwI</string>
+    <string name="google_app_id" translatable="false">1:877508768047:android:078aa349a2cf20b8</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDRIvRxltvNtjifzQZ_o0C4e4Uo6navjwI</string>
+    <string name="google_storage_bucket" translatable="false">dial-india.appspot.com</string>
+    <string name="project_id" translatable="false">dial-india</string>
+</resources>

@@ -1,0 +1,634 @@
+[
+    {
+        "outputFile": "/Users/voonik/Documents/DialIndia/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ml-rIN/values-ml-rIN.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 32,
+                    "endOffset": 83
+                },
+                "from": {
+                    "file": "/Users/voonik/Documents/DialIndia/app/src/main/res/values-ml-rIN/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 747,
+                        "endColumn": 32,
+                        "endOffset": 775
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 88,
+                    "endColumn": 32,
+                    "endOffset": 116
+                },
+                "from": {
+                    "file": "/Users/voonik/Documents/DialIndia/app/src/main/res/values-ml-rIN/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 103,
+                        "endColumn": 32,
+                        "endOffset": 131
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 121,
+                    "endColumn": 32,
+                    "endOffset": 149
+                },
+                "from": {
+                    "file": "/Users/voonik/Documents/DialIndia/app/src/main/res/values-ml-rIN/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 174,
+                        "endColumn": 32,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 154,
+                    "endColumn": 32,
+                    "endOffset": 182
+                },
+                "from": {
+                    "file": "/Users/voonik/Documents/DialIndia/app/src/main/res/values-ml-rIN/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 245,
+                        "endColumn": 32,
+                        "endOffset": 273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 187,
+                    "endColumn": 32,
+                    "endOffset": 215
+                },
+                "from": {
+                    "file": "/Users/voonik/Documents/DialIndia/app/src/main/res/values-ml-rIN/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 319,
+                        "endColumn": 32,
+                        "endOffset": 347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 220,
+                    "endColumn": 32,
+                    "endOffset": 248
+                },
+                "from": {
+                    "file": "/Users/voonik/Documents/DialIndia/app/src/main/res/values-ml-rIN/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 390,
+                        "endColumn": 32,
+                        "endOffset": 418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 253,
+                    "endColumn": 32,
+                    "endOffset": 281
+                },
+                "from": {
+                    "file": "/Users/voonik/Documents/DialIndia/app/src/main/res/values-ml-rIN/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 462,
+                        "endColumn": 32,
+                        "endOffset": 490
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 286,
+                    "endColumn": 32,
+                    "endOffset": 314
+                },
+                "from": {
+                    "file": "/Users/voonik/Documents/DialIndia/app/src/main/res/values-ml-rIN/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 531,
+                        "endColumn": 32,
+                        "endOffset": 559
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 319,
+                    "endColumn": 32,
+                    "endOffset": 347
+                },
+                "from": {
+                    "file": "/Users/voonik/Documents/DialIndia/app/src/main/res/values-ml-rIN/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 602,
+                        "endColumn": 32,
+                        "endOffset": 630
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 352,
+                    "endColumn": 32,
+                    "endOffset": 380
+                },
+                "from": {
+                    "file": "/Users/voonik/Documents/DialIndia/app/src/main/res/values-ml-rIN/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 675,
+                        "endColumn": 32,
+                        "endOffset": 703
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 385,
+                    "endColumn": 47,
+                    "endOffset": 428
+                },
+                "from": {
+                    "file": "/Users/voonik/Documents/DialIndia/app/src/main/res/values-ml-rIN/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 47,
+                        "endOffset": 98
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 433,
+                    "endColumn": 41,
+                    "endOffset": 470
+                },
+                "from": {
+                    "file": "/Users/voonik/Documents/DialIndia/app/src/main/res/values-ml-rIN/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 820,
+                        "endColumn": 41,
+                        "endOffset": 857
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 475,
+                    "endColumn": 34,
+                    "endOffset": 505
+                },
+                "from": {
+                    "file": "/Users/voonik/Documents/DialIndia/app/src/main/res/values-ml-rIN/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 897,
+                        "endColumn": 34,
+                        "endOffset": 927
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 510,
+                    "endColumn": 45,
+                    "endOffset": 551
+                },
+                "from": {
+                    "file": "/Users/voonik/Documents/DialIndia/app/src/main/res/values-ml-rIN/strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1323,
+                        "endColumn": 45,
+                        "endOffset": 1364
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 556,
+                    "endColumn": 45,
+                    "endOffset": 597
+                },
+                "from": {
+                    "file": "/Users/voonik/Documents/DialIndia/app/src/main/res/values-ml-rIN/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 932,
+                        "endColumn": 45,
+                        "endOffset": 973
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 602,
+                    "endColumn": 39,
+                    "endOffset": 637
+                },
+                "from": {
+                    "file": "/Users/voonik/Documents/DialIndia/app/src/main/res/values-ml-rIN/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 635,
+                        "endColumn": 39,
+                        "endOffset": 670
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 642,
+                    "endColumn": 38,
+                    "endOffset": 676
+                },
+                "from": {
+                    "file": "/Users/voonik/Documents/DialIndia/app/src/main/res/values-ml-rIN/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 423,
+                        "endColumn": 38,
+                        "endOffset": 457
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 681,
+                    "endColumn": 37,
+                    "endOffset": 714
+                },
+                "from": {
+                    "file": "/Users/voonik/Documents/DialIndia/app/src/main/res/values-ml-rIN/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 352,
+                        "endColumn": 37,
+                        "endOffset": 385
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 719,
+                    "endColumn": 55,
+                    "endOffset": 770
+                },
+                "from": {
+                    "file": "/Users/voonik/Documents/DialIndia/app/src/main/res/values-ml-rIN/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1034,
+                        "endColumn": 55,
+                        "endOffset": 1085
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 775,
+                    "endColumn": 51,
+                    "endOffset": 822
+                },
+                "from": {
+                    "file": "/Users/voonik/Documents/DialIndia/app/src/main/res/values-ml-rIN/strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1090,
+                        "endColumn": 51,
+                        "endOffset": 1137
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 827,
+                    "endColumn": 38,
+                    "endOffset": 861
+                },
+                "from": {
+                    "file": "/Users/voonik/Documents/DialIndia/app/src/main/res/values-ml-rIN/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 708,
+                        "endColumn": 38,
+                        "endOffset": 742
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 866,
+                    "endColumn": 37,
+                    "endOffset": 899
+                },
+                "from": {
+                    "file": "/Users/voonik/Documents/DialIndia/app/src/main/res/values-ml-rIN/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 136,
+                        "endColumn": 37,
+                        "endOffset": 169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 904,
+                    "endColumn": 55,
+                    "endOffset": 955
+                },
+                "from": {
+                    "file": "/Users/voonik/Documents/DialIndia/app/src/main/res/values-ml-rIN/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 978,
+                        "endColumn": 55,
+                        "endOffset": 1029
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 960,
+                    "endColumn": 34,
+                    "endOffset": 990
+                },
+                "from": {
+                    "file": "/Users/voonik/Documents/DialIndia/app/src/main/res/values-ml-rIN/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 862,
+                        "endColumn": 34,
+                        "endOffset": 892
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 995,
+                    "endColumn": 59,
+                    "endOffset": 1050
+                },
+                "from": {
+                    "file": "/Users/voonik/Documents/DialIndia/app/src/main/res/values-ml-rIN/strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1369,
+                        "endColumn": 59,
+                        "endOffset": 1424
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1055,
+                    "endColumn": 37,
+                    "endOffset": 1088
+                },
+                "from": {
+                    "file": "/Users/voonik/Documents/DialIndia/app/src/main/res/values-ml-rIN/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 564,
+                        "endColumn": 37,
+                        "endOffset": 597
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1093,
+                    "endColumn": 35,
+                    "endOffset": 1124
+                },
+                "from": {
+                    "file": "/Users/voonik/Documents/DialIndia/app/src/main/res/values-ml-rIN/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 495,
+                        "endColumn": 35,
+                        "endOffset": 526
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1129,
+                    "endColumn": 55,
+                    "endOffset": 1180
+                },
+                "from": {
+                    "file": "/Users/voonik/Documents/DialIndia/app/src/main/res/values-ml-rIN/strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1267,
+                        "endColumn": 55,
+                        "endOffset": 1318
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1185,
+                    "endColumn": 69,
+                    "endOffset": 1250
+                },
+                "from": {
+                    "file": "/Users/voonik/Documents/DialIndia/app/src/main/res/values-ml-rIN/strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1142,
+                        "endColumn": 69,
+                        "endOffset": 1207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1255,
+                    "endColumn": 54,
+                    "endOffset": 1305
+                },
+                "from": {
+                    "file": "/Users/voonik/Documents/DialIndia/app/src/main/res/values-ml-rIN/strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1212,
+                        "endColumn": 54,
+                        "endOffset": 1262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1310,
+                    "endColumn": 40,
+                    "endOffset": 1346
+                },
+                "from": {
+                    "file": "/Users/voonik/Documents/DialIndia/app/src/main/res/values-ml-rIN/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 278,
+                        "endColumn": 40,
+                        "endOffset": 314
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1351,
+                    "endColumn": 37,
+                    "endOffset": 1384
+                },
+                "from": {
+                    "file": "/Users/voonik/Documents/DialIndia/app/src/main/res/values-ml-rIN/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 207,
+                        "endColumn": 37,
+                        "endOffset": 240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1389,
+                    "endColumn": 39,
+                    "endOffset": 1424
+                },
+                "from": {
+                    "file": "/Users/voonik/Documents/DialIndia/app/src/main/res/values-ml-rIN/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 780,
+                        "endColumn": 39,
+                        "endOffset": 815
+                    }
+                }
+            }
+        ]
+    }
+]

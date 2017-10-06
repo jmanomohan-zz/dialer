@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="_0">0</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="app_name">Dial India</string>
+    <string name="call">போன் செய்</string>
+    <string name="coma">,</string>
+    <string name="contacts">Contacts</string>
+    <string name="duration">Duration</string>
+    <string name="eight">எட்டு</string>
+    <string name="five">ஐந்து</string>
+    <string name="four">நான்கு</string>
+    <string name="incoming_call">Incoming Call</string>
+    <string name="missed_call">Missed Call</string>
+    <string name="nine">ஒன்பது</string>
+    <string name="one">ஒரு</string>
+    <string name="outgoing_call">Outgoing Call</string>
+    <string name="plus">+</string>
+    <string name="search_contact">Search contact..</string>
+    <string name="seven">ஏழு</string>
+    <string name="six">ஆறு</string>
+    <string name="speak_to_dial">Speak to dial</string>
+    <string name="speech_not_supported">Speech not supported</string>
+    <string name="speech_prompt">Speak number</string>
+    <string name="three">மூன்று</string>
+    <string name="two">இரண்டு</string>
+    <string name="zero">பூச்சியம்</string>
+</resources>

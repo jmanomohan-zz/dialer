@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="sqlbrite-kotlin-2.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/sqlbrite-kotlin-2.0.0.aar/73545bbffba6159392823a263fe0f324/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/sqlbrite-kotlin-2.0.0.aar/73545bbffba6159392823a263fe0f324/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.sqlbrite2/sqlbrite-kotlin/2.0.0/ecb6a9829b23362a178ba03cdfb0f9c9a51b0104/sqlbrite-kotlin-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
